@@ -6,6 +6,6 @@
 - 💬 Ask me about Human-Centred Design, Visual Design, User Interfaces and creating beautiful digital products.
 - 📫 How to reach me: alexblum@ssw.com.au
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Before UX design, I was a carpenter for ~5 years.
+- ⚡ Fun fact: Before UX / Product design, I was a carpenter for ~5 years.
 
 [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=designbyalex&amp;theme=dark)](https://github.com/designbyalex/github-readme-stats)
