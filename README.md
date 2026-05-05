@@ -8,4 +8,5 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Before UX / Product design, I was a carpenter for ~5 years.
 
-[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=designbyalex&amp;theme=dark)](https://github.com/designbyalex/github-readme-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=designbyalex&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=designbyalex&theme=dark)
